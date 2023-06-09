@@ -1,7 +1,8 @@
 Este es un proyecto de portafolio de landing desarrollado utilizando Vite, React y otras dependencias relacionadas. Proporciona una forma rápida y eficiente de crear una página de aterrizaje para tu portafolio personal.+
 
 Enlaces
-Página principal: https://monier87.github.io/MyPortafofio_React
+Página principal:
+ https://monier87.github.io/MyPortafofio_React
 
 Instalación
 Clona este repositorio en tu máquina local.
@@ -21,6 +22,7 @@ react: ^18.2.0
 react-dom: ^18.2.0
 react-icons: ^4.8.0
 react-type-animation: ^3.0.1
+
 Dependencias de desarrollo
 @types/react: ^18.0.28
 @types/react-dom: ^18.0.11
@@ -36,9 +38,9 @@ postcss: ^8.4.23
 tailwindcss: ^3.3.2
 vite: ^4.3.2
 
-
 Contribución
 Si deseas contribuir a este proyecto, siéntete libre de hacer un fork y enviar tus propuestas a través de pull requests. También puedes abrir problemas en el repositorio para informar sobre problemas o sugerir nuevas ideas.
+
 
 
 Licencia
